@@ -1,0 +1,31 @@
+#mainbox {
+    background: linear-gradient(to right, rgba(255, 0, 0, 0), #bbe2ef) !important;
+    min-height: 90vh;
+}
+
+#mainbox img {
+    width: 500px;
+    height: 500px;
+}
+
+#mainbox h2 {
+    font-weight: bolder;
+}
+
+#mainbox h2 span {
+    color: orangered;
+}
+
+#mainbox a {
+    border: none;
+    font-weight: bolder;
+    padding: 11px;
+    text-align: center;
+    text-decoration: none;
+    margin: 28px 0px 15px 0px;
+    display: block;
+    width: 69%;
+    border-radius: 11px;
+    color: white;
+    background: #819ffc;
+}

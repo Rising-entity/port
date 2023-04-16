@@ -1,0 +1,17 @@
+nav {
+    box-shadow: -12px -1px 6px gray;
+    font-weight: bolder;
+    padding: 0px !important;
+   background-color: white !important;
+
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+nav li a {
+    color: black !important;
+    padding: 15px !important;
+}
