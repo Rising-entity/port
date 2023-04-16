@@ -1,6 +1,6 @@
 import React from 'react';
 import './Section1.css';
-import img1 from "../images/Home/man-working-on-laptop.png"
+import img1 from "../../images/Home/man-working-on-laptop.png"
 
 export default function Section1() {
     return (
