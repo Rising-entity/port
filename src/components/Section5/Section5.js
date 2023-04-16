@@ -1,8 +1,8 @@
 import React from 'react';
-import img1 from "../images/Home/twitter.png"
-import img2 from "../images/Home/instagram.png"
-import img3 from "../images/Home/facebook.png"
-import img4 from "../images/Home/linkedin.png"
+import img1 from "../../images/Home/twitter.png"
+import img2 from "../../images/Home/instagram.png"
+import img3 from "../../images/Home/facebook.png"
+import img4 from "../../images/Home/linkedin.png"
 
 
 export default function Section5() {
